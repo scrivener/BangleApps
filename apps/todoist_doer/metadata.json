@@ -12,6 +12,11 @@
     {
       "name": "todoist_doer.app.js",
       "url": "app.js"
+    },
+    {
+      "name": "todoist_doer.img",
+      "url": "app-icon.js",
+      "evaluate": true
     }
   ]
 }
