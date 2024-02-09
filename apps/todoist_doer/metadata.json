@@ -9,6 +9,9 @@
   "supports": ["BANGLEJS2"],  
   "readme": "README.md",
   "storage": [
-    {"name": "todoist_doer.app.js", "url": "app.js"}
+    {
+      "name": "todoist_doer.app.js",
+      "url": "app.js"
+    }
   ]
 }
