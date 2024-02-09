@@ -1,5 +1,0 @@
-{
-  "id": "todoist_doer",
-  "name": "Todoist Task Doer",
-  "src": "todoist_doer.app.js"
-}

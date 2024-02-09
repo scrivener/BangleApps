@@ -1,0 +1,14 @@
+{
+  "id": "todoist_doer",
+  "name": "Todoist Task Doer",
+  "shortName": "Todoist Doer",
+  "version":"0.01",
+  "description": "Complete hardcoded todoist tasks through a hacky setup",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"todoist_doer.app.js","url":"app.js"},
+  ]
+}
